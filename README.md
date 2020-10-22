@@ -10,14 +10,17 @@ The project is organized as follow :
 * Implement two distincts data-driven segmentation
 
 2. **Data Analysis**
+
 Compute basics statistics on:
 * The Original Opensubtitle
 * The two Automatic segmented subset
 
 3. **Emo_bert_Training.ipynb**  :
+
 Testing our Emo-Bert classifier on our new datasets.
 
 2. **Results_analysis.ipynb** : 
+
 Plot our different analysis and analyse the classification performance with other states-of-the-Art algorithm of Emotion Classification
 
 Related Paper:
