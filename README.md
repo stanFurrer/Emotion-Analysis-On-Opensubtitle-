@@ -6,6 +6,8 @@
 
 In this paper, we present a data-driven approach to the segmentation of subtitles in movie into a speaker-aligned dataset. On this novel dataset, we applied our pre-train BERT model to label the dialogues with emotions. A Social bot was finally trained with our novel dataset in order to catch emotions in text conversations.
 
+My Paper : [Emotion Analysis on OpenSubtitles](https://github.com/stanFurrer/Emotion-Analysis-On-Opensubtitle-/blob/main/Paper.pdf)
+
 The project is organized as follow : 
 
 1. **Preprocessing**
