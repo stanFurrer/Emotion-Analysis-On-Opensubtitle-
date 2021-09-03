@@ -8,7 +8,7 @@ In this paper, we present a data-driven approach to the segmentation of subtitle
 
 My Paper : [Emotion Analysis on OpenSubtitles](https://github.com/stanFurrer/Emotion-Analysis-On-Opensubtitle-/blob/main/Paper.pdf)
 
-Arxiv Paper : [Fine-grained Emotion and Intent Learning in Movie Dialogues](https://arxiv.org/pdf/2012.13624.pdf)
+ArXiv Paper : [Fine-grained Emotion and Intent Learning in Movie Dialogues](https://arxiv.org/pdf/2012.13624.pdf)
 
 The project is organized as follow : 
 
